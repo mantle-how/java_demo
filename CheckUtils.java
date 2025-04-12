@@ -13,8 +13,8 @@ public class CheckUtils {
     public static void main(String[] args) {
         System.out.println("8是偶數嗎: "+isEven(8));
         System.out.println("15是偶數嗎: "+ isEven(15));
-        System.out.println("21是成人嗎: "+ isEven(21));
-        System.out.println("12是成人嗎: "+ isEven(12));
+        System.out.println("21是成人嗎: "+ isAdult(21));
+        System.out.println("12是成人嗎: "+ isAdult(12));
     }
 
 
